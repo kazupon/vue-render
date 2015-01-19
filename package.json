@@ -1,0 +1,26 @@
+{
+  "name": "vue-render",
+  "version": "0.0.1",
+  "description": "Server-Side rendering plugin of Vue.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kazupon/vue-render.git"
+  },
+  "keywords": [
+    "vue"
+  ],
+  "author": "kazuya kawaguchi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kazupon/vue-render/issues"
+  },
+  "homepage": "https://github.com/kazupon/vue-render",
+  "dependencies": {
+    "htmltree": "0.0.4",
+    "virtual-dom": "^1.2.0"
+  }
+}
